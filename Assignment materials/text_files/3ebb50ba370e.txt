@@ -1,0 +1,43 @@
+6 Things You Didn’t Know About Bluetooth
+Like the fact that Bluetooth is named after a Viking and works by using slavery…
+
+Invented by Ericsson in 1994, Bluetooth was intended to enable wireless headsets. Bluetooth has since expanded into a broad variety of applications including Bluetooth headsets, speakers, printers, video game controllers, and much more.
+Bluetooth is also important for the rapidly growing Internet of Things, including smart homes and industrial applications. Given the importance of Bluetooth and it’s usage in an increasing number of applications, here are 6 interesting things about Bluetooth that you didn’t know!
+And to start it off, do you know what Bluetooth actually is?
+1) Bluetooth is a Wireless Technology Standard
+Wireless technology standards require both a hardware and software component. The hardware is required to be able to send the necessary signal via radio frequency, and the software determines what’s sent over that signal and how it’s interpreted.
+This means that, to use Bluetooth, a device must have a tiny computer chip with a Bluetooth radio. This also means that the software must be universally accepted across all devices (hence, “standard”), otherwise they wouldn’t be able to communicate.
+
+A Bluetooth radio chip next to a watch batter
+This standard is managed by the Bluetooth Special Interest Group (SIG), but Bluetooth SIG didn’t choose the name, instead the name was proposed by Jim Kardach in 1997…
+2) Bluetooth is Named after a Viking
+Jim Kardach had been reading “The Long Ships”, by Frans G. Bengtsson, which is set in the Viking Age and includes Harald “Blåtand” Gormsson, King of Denmark and Norway.
+The Anglicised version of Harald “Blåtand” is Harald Bluetooth. He’s known for uniting dissonant Viking tribes into the Kingdom of Denmark. In a similar way, Bluetooth is thus meant to unite the many wireless communications protocols under one standard.
+The Bluetooth logo is also a combination of the runes for Harald Bluetooth’s initials, H.B.
+
+Though unintentional, there’s another parallel between the Vikings and Bluetooth. Vikings made use of slaves (called thralls), and so does Bluetooth…
+3) Bluetooth Uses Slavery
+When Bluetooth devices connect to each other (for example, your phone and your wireless speaker), it’s known as a master-slave relationship. One of the devices is the master and the other devices are slaves. The master transmits information to the slave and the slave listens for information from the master.
+A master can have up to 7 slaves, which is why your computer can be connected via Bluetooth to multiple devices at the same time (for example, a wireless keyboard, mouse, printer, speaker, etc.). When devices are connected together via Bluetooth, it’s called a “piconet”.
+
+Not only can a device be a master in one piconet and a slave in a different piconet at the same time, but the master-slave relationship can also switch. That’s why you need to put your Bluetooth device in pairing mode to connect it. It’s becoming the master so that it can establish a connection and then becomes the slave.
+This easy set-up for Bluetooth connections is part of why…
+4) Bluetooth is Better than Wi-Fi (Sometimes)
+Wi-Fi is also a wireless technology standard, but Bluetooth and Wi-Fi serve two separate purposes. Wi-Fi (which is the brand name for the IEEE.802.11 standard) was meant to replace high-speed cables, so it takes some setting up but supports high bandwidth.
+
+On the other hand, Bluetooth was meant for portable equipment and related applications. It’s great when you need to connect two devices with minimal configuration (often just pressing a button). Also, because Bluetooth uses weak signals, there’s limited interference and devices can communicate in “noisy” environments. That’s why…
+5) Bluetooth is Great for the Internet of Things
+In the Industrial Internet of Things, machines often need to send short bursts of data in extremely noisy environments. With potentially hundreds of sensors and devices sending data, Wi-Fi poses too much hassle to setup.
+A drawback of Bluetooth is lower bandwidth, but for many industrial applications this higher bandwidth simply isn’t needed.
+
+Bluetooth is also useful in a smart home setting. Again, many devices in the smart home don’t need high bandwidth connections and it’s much easier to set up Bluetooth.
+Furthermore, newer versions of Bluetooth can create a self-healing mesh network which means that individual devices can still communicate even if one device runs out of power or is disconnected. If your door locks, HVAC system, washer, dryer, fridge, and lights are all connected, you certainly wouldn’t want them all to fail just because one goes down.
+One of the drawbacks of Bluetooth is the low range, which could be problematic in a smart home (depending on how big your home is). Fortunately…
+6) We’re on Bluetooth Version 5
+The Bluetooth Special Interest Group officially adopted Bluetooth 5 as the latest version of Bluetooth back in December 2016.
+“With Bluetooth 5, Bluetooth continues to revolutionize how people experience the IoT. Bluetooth continues to embrace technological advancements and push the unlimited potential of the IoT.”
+—Bluetooth 5 Now Available
+As is clear from Bluetooth SIG’s announcement, Bluetooth 5 is specifically aimed that the Internet of Things. It boasts quadruple the range, double the speed, and boosts broadcast messaging capacity by 800%. It also introduces the mesh networking capability mentioned above.
+Bluetooth 5 is backwards-compatible with previous versions of Bluetooth, but new hardware is required to take advantage of the new benefits listed above. So it might be awhile until we see all the benefits that Bluetooth 5 has to offer, but it’s an exciting development as the Internet of Things continue to gain traction!
+Still have IoT questions?
+Every week we’ll write new Medium posts explaining IoT concepts in simple, non-technical terms. If you have any concepts you’d like explained in a post, please let us know in the comments below! Or if you have a short question you’d like answered quickly, just tweet us using #askIoT!

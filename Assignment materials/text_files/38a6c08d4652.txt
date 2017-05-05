@@ -1,0 +1,90 @@
+How to Teach AI to Kids
+Science Fiction, Movie Trailers, and Youtube Videos I Use to Help Kids Understand Artificial Intelligence
+What can you learn from observing Pac-Man Ghosts like a Zoologist?
+
+Imagine being a kid. Your parents just signed you up for some fancy Stanford Summer course in Artificial Intelligence. To be honest, you have no idea what Artificial Intelligence is except for robots or something. You attend one of the best high schools in your country, and you tested well enough to get into the course, but you wonder whether you’d prefer your summers outside the classroom.
+
+On the first day, the instructor loads up a game of Pac-Man and asks if anyone has ever seen this game before. Games? You pine for moments of screen time when you can explore the internet for new and interesting games; however, class time and game time have always been strictly and mutually exclusive. This was a new experience in many ways. You uncomfortably watch as Pac-Man collides with the wall one pellet over, neglectfully left motionless by the instructor. The instructor then says, “forget about Pac-Man, what can we learn from observing Pinky, Blinky, Inky, and Clyde?”
+
+So, I’ve taught lessons on Artificial Intelligence in six different countries from ages as young as 11 to graduate student level, and regardless of culture, there are two important concepts that I make sure to introduce young students: curiosity and grit. Without the means to cultivate curiosity and grit, many students avoid Computer Science before they even begin.
+
+There are three ways I do this:
+
+    Motivations from History: “The Why.” Give them the historical context and motivations for the technology they use everyday, making sure that they understand that before these devices existed, they were just a crazy idea someone dreamed up.
+    Productive Curiosity: “The What.” Give permission and encouragement towards asking the right questions of “Why?,” “What?,” and “How?.” Lead them by demonstrating what the right kind of questions feel like by tying it to stories and concepts they are familiar with.
+    Ideas worth Realizing: “The How.” Show them in what ways they could dream, while emphasizing that if it really was that obvious and easy, someone would have done it by now.
+
+1. Motivations: “Why do computers exist?”
+
+Typically, students will say that computers exist because humans are lazy and bored. Eventually, we talk about how money and curiosity also motivate invention, eventually arriving at an ultimate motivation to survive. It’s amazing how many students I’ve encountered who’ve never been invited to ask why and how these everyday devices even exist. So to show a dramatization of historical motivations of technology, I start with the trailer for the Imitation Game:
+
+    The Imitation Game is a 2014 American historical drama thriller film loosely based on the biography Alan Turing: The Enigma by Andrew Hodges (which was previously adapted as the stage play and BBC drama Breaking the Code). It stars Benedict Cumberbatch as real-life British cryptanalyst Alan Turing, who decrypted German intelligence codes for the British government during the Second World War.
+
+Followup questions after playing the video:
+
+    Why did they want better machines?
+    Before we had the technology to do these tasks for us, how were these tasks done?
+    How do you imagine and build something that doesn’t exist yet?
+
+I wanted the students to understand how developers, creators, and inventors were once just kids like they are. I wanted them to imagine themselves in the shoes of (dramatized) Alan Turing.
+The Imitation Game: Video
+2. Curiosity: “What is Artificial Intelligence?”
+
+This class they are sitting in is titled, “Artificial Intelligence.” If they learn anything at all, I make it clear that after this lesson they should at least be able to confidently answer if someone asked, “What is Artificial Intelligence?”
+
+A typical answer I get is usually along the lines of “robots and things.” So, I’ll then tell them that it’s sometimes easier to understand a concept by imagining the things that aren’t rather than things that are. I lead them to be intentionally curious by asking:
+
+    Does a rock have AI?
+    Does my pen have AI?
+    Do these scissors have AI?
+    Does a dog have AI?
+    Does a human (or some person, usually another teacher, in the room) have AI?
+
+“Does your math teacher have Artificial Intelligence?” They seem to think this is funny no matter what country I’m in, so I shamelessly use it every time. “I mean,” I earnestly tell them, as they laugh, “your teacher could be a robot that recharges through power cables instead of sleeping.”
+
+I want them to build the habit of asking questions like what is “artificial” and what is “intelligence.” So, we do the same exercise of as we did above, asking, “what is artificial?” and, separately, “what is intelligence?”
+
+So, what IS Artificial Intelligence? Another type of answer I get are along the lines of “computers that think” or “smart machines,” which are decent surface level answers. It’s easy to explain what makes something artificial (human-made things, like computers, machines, technology, etc.); however, asking, “what is intelligence?” makes for a much better classroom discussion.
+
+To get them thinking in the right direction, I may ask a series of questions like: “Well, what about Artificial Flight?” “What is it?” “Do birds have Artificial Flight?” “Why not?” “What is flight?” “If I throw a paper ball, is that fight?” “What if it’s a paper airplane?” “How did we even know flying was a thing?” “How did we finally invent Artificial Flight?” (Inspired by an essay on Nordic Seagulls, 1990).
+What inspired us to fly?
+
+Similar to how I had ask about flight, where do we get our inspiration for intelligence? Penultimately, I want them to ask themselves, “what does it mean to be human?,” because, ultimately, if they can tell me what we mean by intelligence and give me a design for building it, we have a pretty solid and actionable understanding of AI.
+
+At this point, I’ll have had the movie A.I. Artificial Intelligence queued up:
+
+    A.I. Artificial Intelligence (also known simply as A.I.) is a 2001 American science fiction drama film directed by Steven Spielberg. Set in a futuristic post-climate change society, A.I. tells the story of David (Osment), a childlike android uniquely programmed with the ability to love.
+
+3. Ideas: “How can we build better machines?”
+
+Next, I ask the students to get out pen and paper for an exercise. I tell them, In column A, I want all the ways that computers are better than humans. In column B, I want all the ways that humans are better than computers. 5 minutes later, the answers generally look like this:
+
+    Computers are faster, good at math, better at repetition, don’t need to sleep or eat, better at searching and remembering things, better for communication…
+    Humans are better at emotions, creating, being original, improvising, eating, pooping…
+
+… Ok, so they typically don’t completely get where I’m going with this at first. So, I show them this image and I ask them to tell me what it is, why it’s useful, and what it implies about computers.
+Why is Captcha a thing?
+
+Invariably, they’ll soon get that humans are quite good at seeing, hearing, smelling, tasting, and touching. Once we’ve touched specifics of human movement, language, and learning, I’m able to draw connections from the named human attributes to common and novel pursuits in AI. For example:
+
+    Believable and Expressive AI
+    Computational Creativity
+    Procedural Content Generation
+    Computer Vision
+    Robotics
+    Natural Language Generation and Understanding
+    Machine Learning
+
+Before machines, everything in column A was under column B. As people, much like the students in my classes, ask themselves these types of questions, we develop a deeper understanding of why machines should be better, what they can be better at, and how they can be better.
+
+I ask the students if they mind us watching YouTube videos for the rest of class. It turns out that students, across the globe, love watching YouTube videos, unless you are in China (in which case, I had to download the videos onto my laptop before entering the country). I skip through various parts of these videos, but the order is more or less as follows.
+
+    LEGO Sudoku Bot: Are computer or humans better at Sudoku?
+    Pancake Bot: Are computers better at making pancakes?
+    Robot Dog: Are computers better at moving about?
+    Robot Arm: Better at catching a something?
+    Google Self-Driving Cars: And what about driving? (Note: the idea of “self-driving” relies heavily on what the experience of driving is like, which is non-trivially different if you are teaching in India versus Peru.)
+
+Conceptually, I end this AI introduction on language, believability, and Machine Learning. How I explain Machine Learning to kids will need to have a post of it’s own. (Also, some of these next videos are a bit tricky to show kids, because I try to skip over the more “grown-up” parts.)
+
+Her has a good trailer to show, because students are already familiar with talking to their phones. I merely have to say, “Ok, Google, what does a fox say?” and use it to explain how a movie takes an existing technology to project future scenarios. Both movie makers and engineers ask themselves how computers could be better, and when they watch, read, or hear bits of fiction, students can be both critical of and inspired by it.
